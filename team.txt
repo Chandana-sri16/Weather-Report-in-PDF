@@ -1,0 +1,165 @@
+
+                                                          Date:-16-09-22  
+                                                          Time:- 15:59:53  
+City:- VIJAYAWADA
+Weather looking like- Clouds (Scattered clouds) 
+Max.temp- 40°C 
+Min.temp- 33°C 
+Humidity- 55 % 
+Wind speed- 3.6 m/s  
+Wind direction: west-northwest 
+History: {'day': '1', 'temperature': '+33 °C', 'wind': '18 km/h'}
+{'day': '2', 'temperature': '+33 °C', 'wind': '24 km/h'}
+{'day': '3', 'temperature': '34 °C', 'wind': '20 km/h'}
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 16:01:40  
+City:- GUJARAT
+Weather looking like- Clouds (Smoke) 
+Max.temp- 36°C 
+Min.temp- 32°C 
+Humidity- 54 % 
+Wind speed- 0.978096 m/s  
+Wind direction: northeast 
+History: {'day': '1', 'temperature': '37 °C', 'wind': '26 km/h'}
+      {'day': '2', 'temperature': '+31 °C', 'wind': '17 km/h'}
+      {'day': '3', 'temperature': '+33 °C', 'wind': '8 km/h'}
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 16:03:46  
+City:- KOLKATA
+Weather looking like- Rain (Light rain) 
+Max.temp- 29°C 
+Min.temp- 26°C 
+Humidity- 83 % 
+Wind speed- 2.6 m/s  
+Wind direction: south 
+History: {'day': '1', 'temperature': '37 °C', 'wind': '13 km/h'}
+           {'day': '2', 'temperature': '37 °C', 'wind': '9 km/h'}
+          {'day': '3', 'temperature': ' °C', 'wind': '9 km/h'}
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 16:04:38  
+City:- MUMBAI
+Weather looking like- Haze (Thunderstorm with heavy rain) 
+Max.temp- 33°C 
+Min.temp- 25°C 
+Humidity- 89 % 
+Wind speed- 6.7 m/s  
+Wind direction: west-southwest 
+History: {'day': '1', 'temperature': '29 °C', 'wind': '15 km/h'}
+               {'day': '2', 'temperature': '+26 °C', 'wind': '13 km/h'}
+               {'day': '3', 'temperature': ' °C', 'wind': '+28 km/h'}
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 16:08:04  
+City:- LONDON
+Weather looking like- Clouds (Fog) 
+Max.temp- 14°C 
+Min.temp- 13°C 
+Humidity- 62 % 
+Wind speed- 1 m/s  
+Wind direction: north 
+History: {'day': '1', 'temperature': '16 °C', 'wind': '19 km/h'}
+              {'day': '2', 'temperature': '16 °C', 'wind': '15 km/h'}
+              {'day': '3', 'temperature': '+15 °C', 'wind': '10 km/h'}
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 18:08:24  
+City:- VIJAYAWADA
+                                                          Date:-16-09-22  
+                                                          Time:- 18:09:48  
+City:- DELHI
+                                                          Date:-16-09-22  
+                                                          Time:- 18:10:37  
+City:- DELHI
+Weather looking like- Mist (Fog) 
+Max.temp- 26°C 
+Min.temp- 26°C 
+Humidity- 94 % 
+Wind speed- 1.5 m/s  
+Wind direction: north-northwest 
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 18:14:48  
+City:- DELHI
+Weather looking like- Mist (Fog) 
+Max.temp- 26°C 
+Min.temp- 26°C 
+Humidity- 94 % 
+Wind speed- 1.5 m/s  
+Wind direction: north-northwest 
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 18:15:30  
+City:- DELHI
+                                                          Date:-16-09-22  
+                                                          Time:- 18:16:33  
+City:- DELHI
+Weather looking like- Mist (Fog) 
+Max.temp- 26°C 
+Min.temp- 26°C 
+Humidity- 94 % 
+Wind speed- 1.5 m/s  
+Wind direction: north-northwest 
+details: ggg--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 18:21:08  
+City:- DELHI
+Weather looking like- Mist (Fog) 
+Max.temp- 26°C 
+Min.temp- 26°C 
+Humidity- 94 % 
+Wind speed- 1.5 m/s  
+Wind direction: north-northwest 
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 19:00:53  
+City:- DELHI
+Weather looking like- Mist (Fog) 
+Max.temp- 26°C 
+Min.temp- 25°C 
+Humidity- 100 % 
+Wind speed- 1.5 m/s  
+Wind direction: northeast 
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 19:01:02  
+City:- KOLKATA
+Weather looking like- Haze (Light rain) 
+Max.temp- 29°C 
+Min.temp- 26°C 
+Humidity- 83 % 
+Wind speed- 1 m/s  
+Wind direction: north 
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 19:23:05  
+City:- VIJAYAWADA
+Weather looking like- Clouds (Few clouds) 
+Max.temp- 34°C 
+Min.temp- 29°C 
+Humidity- 70 % 
+Wind speed- 1 m/s  
+Wind direction: west-southwest 
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 19:23:15  
+City:- HYDERABAD
+Weather looking like- Clouds (Clear sky) 
+Max.temp- 26°C 
+Min.temp- 25°C 
+Humidity- 88 % 
+Wind speed- 1.5 m/s  
+Wind direction: west 
+--------------------------------------------------------------------
+                                                          Date:-16-09-22  
+                                                          Time:- 19:23:25  
+City:- KOLKATA
+Weather looking like- Haze (Light rain) 
+Max.temp- 29°C 
+Min.temp- 26°C 
+Humidity- 83 % 
+Wind speed- 1.5 m/s  
+Wind direction: southeast 
+--------------------------------------------------------------------
